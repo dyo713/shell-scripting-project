@@ -1,0 +1,71 @@
+    1  ls
+    2  sudo apt-get update 
+    3  ifconfig
+    4  sudo apt install net-tools 
+    5  sudo apt install neofetch
+    6  ls
+    7  neofetch
+    8  ls
+    9  cd /home/dio
+   10  ls
+   11  mkdir Documents
+   12  ls
+   13  chmod +x hello.sh
+   14  ./hello.sh
+   15  chmod +x hello.sh
+   16  ./hello.sh
+   17  clear
+   18  ./hello.sh
+   19  clear
+   20  ls
+   21  cd Documents
+   22  ls
+   23  chmod +x operasi_aritmatika.sh 
+   24  ls
+   25  ./operasi_aritmatika.sh 
+   26  clear
+   27  ./operasi_aritmatika.sh 
+   28  ls -alh
+   29  ls -alh > ls.txt
+   30  cat ls.txt
+   31  ls
+   32  echo timpa baris > ls.txt
+   33  cat ls.txt
+   34  echo baris selanjutnya >> ls.txt
+   35  cat ls.txt
+   36  wc -l
+   37  ls
+   38  mkdir Downloads
+   39  cd Downloads
+   40  echo rimpa baris > ls.txt
+   41  cat ls.txt
+   42  wc -l ls.txt
+   43  ls
+   44  ls.txt
+   45  cd  ..
+   46  > ls.txt
+   47  wc -l ls.txt
+   48  touch baru.txt
+   49  touch erorr.txt
+   50  cat naru.txt 2> erorr.txt
+   51  cat erorr.txt
+   52  wc -l < ls.txt
+   53  msql -u USERNAME < databse_dump.sl
+   54  ls -l /var/log/*>log | ws -l
+   55  ls -l /var/log/*>log | wc -l
+   56  ls -l /var/log/*.log | wc -l
+   57  ls -l /var/log/ | grep "\.*log$" | wc -l
+   58  ls
+   59  cd Documents
+   60  ls
+   61  chmod +x Script-Dio_Pramudya.sh
+   62  ./Script-Dio_Pramudya.sh
+   63  clear
+   64  ./Script-Dio_Pramudya.sh
+   65  ls
+   66  touch History-Dio_Pramudya.txt
+   67  ls
+   68  history
+   69  clear
+   70  ls
+   71  history > History-Dio_Pramudya.txt 
